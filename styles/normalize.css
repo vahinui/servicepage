@@ -37,14 +37,6 @@ div.content {
     margin-right: auto;
 }
 
-/*-----RECTANGLE-----*/
-.rectangle {
-    height: 150px;
-    width: 1200px;
-    background-color: #555;
-    margin: 30px;
-    
-}
 
 /*-----FOOTER-----*/
 .footer {
