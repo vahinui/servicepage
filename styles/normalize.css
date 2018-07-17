@@ -37,6 +37,43 @@ div.content {
     margin-right: auto;
 }
 
+/*-----RECTANGLE-----*/
+
+h1 {
+    text-align:center;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Encode Sans Semi Condensed', sans-serif; 
+    padding-top: 10px
+}
+
+p {
+    text-indent: 50px;
+    text-align: center;
+    letter-spacing: 3px;
+    color: white;
+    font-family: 'Encode Sans Semi Condensed', sans-serif; 
+    padding-bottom: 10px;
+}
+
+.rectangle {
+    background-color: grey;
+}
+
+/*-----HEADING-----*/
+.h1heading {
+    color: black;
+    font-family: 'Graduate', cursive;
+}
+
+/*-----TABLE-----*/
+table, tr,td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+
 
 /*-----FOOTER-----*/
 .footer {
