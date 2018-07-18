@@ -72,6 +72,14 @@ table, tr,td {
     border-collapse: collapse;
     padding: 5px;
     text-align: center;
+    margin: auto
+}
+
+/*------PARAGRAPHE------*/
+.service {
+    color: black;
+    font-size: 10px;
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
 }
 
 
