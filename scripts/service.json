@@ -1,0 +1,27 @@
+ var myObj, a, b, c, d, e, f, g, h, i;
+        myObj = {"category1": "Basic Tune-Up" , "category2": "Deluxe Tune-up", "category3": "Complete overhaul", "service1": "Shifting system", "service2": "Braking system" , "service3": "Wheel system (minor truing)" , "service4": "Basic cleaning" , "service5": "Eco friendly drivetrain cleaning" , "service6": "Frame cleaning and polishing" , "service7": "Deluxe Tune-up" , "service8": "Grease repack all major bearing systems"};
+
+        a = myObj.category1;
+        b = myObj.category2;
+        c = myObj.category3;
+        d = myObj.service1;
+        e = myObj.service2;
+        f = myObj.service3;
+        g = myObj.service4;
+        h = myObj.service5;
+        i = myObj.service6;
+        j = myObj.service7;
+        k = myObj.service8;
+
+        document.getElementById("category1").innerHTML = a;
+        document.getElementById("category2").innerHTML = b;
+        document.getElementById("category3").innerHTML = c;
+        document.getElementById("service1").innerHTML = d;
+        document.getElementById("service2").innerHTML = e;
+        document.getElementById("service3").innerHTML = f;
+        document.getElementById("service4").innerHTML = g;
+        document.getElementById("service5").innerHTML = h;
+        document.getElementById("service6").innerHTML = i;
+        document.getElementById("service7").innerHTML = j;
+        document.getElementById("service8").innerHTML = k;
+        
