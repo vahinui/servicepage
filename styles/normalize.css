@@ -60,6 +60,13 @@ h1 {
     background-color: grey;
 }
 
+.paragraph {
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+
 /*-----HEADING-----*/
 .h1heading {
     color: black;
