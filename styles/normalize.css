@@ -47,7 +47,7 @@ h1 {
     padding-top: 10px
 }
 
-p {
+.service {
     text-indent: 50px;
     text-align: center;
     letter-spacing: 3px;
@@ -94,4 +94,5 @@ table.empty {
     padding: 14px 16px;
     color: white;
     font-family: 'Encode Sans Semi Condensed', sans-serif;
+    
 }
